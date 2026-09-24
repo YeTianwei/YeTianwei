@@ -27,6 +27,7 @@ people, instead of relying only on costly robot teleoperation data.
 - 🖐️ **Human-to-Robot Transfer**: bridging the embodiment gap between human hands and robot hands and grippers
 - 👁️ **Vision for Robotics**: understanding hands, objects and their interactions in video
 
+<!--
 ### 🛠️ Tech Stack
 
 <p>
@@ -44,11 +45,11 @@ people, instead of relying only on costly robot teleoperation data.
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YeTianwei&show_icons=true&hide_border=true&theme=transparent&title_color=2F81F7&icon_color=2F81F7&text_color=8B949E" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeTianwei&layout=compact&hide_border=true&theme=transparent&title_color=2F81F7&text_color=8B949E" alt="Top languages" />
 </div>
-
+-->
 ---
 
 <div align="center">
 
-💬 Always happy to chat about robot learning, human videos and embodied AI. Feel free to reach out!
+💬 Always happy to chat, feel free to reach out for any purpose!
 
 </div>
